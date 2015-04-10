@@ -1,0 +1,12 @@
+{
+    "full_name": "Simple Energy",
+    "email": "piper@simpleenergy.com",
+    "github_username": "simpleenergy",
+    "project_name": "Simple Energy Python Package",
+    "repo_name": "se-python-package",
+    "module_name": "se_python_package",
+    "project_short_description": "Simple Energy Python Package description",
+    "release_date": "2015-01-11",
+    "year": "2015",
+    "version": "0.1.0"
+}
